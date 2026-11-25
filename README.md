@@ -14,8 +14,7 @@ This project was built for Hackathon - to solve the problem of slow and biased m
 
 **GitHub Repo:** https://github.com/siri9525/deepforge
 
-## 🎯 Problem Statement
-In many competitions, hackathons, and online platforms, thousands of images are submitted. Checking all images manually takes a lot of time and different judges give different scores. We need a fast, fair, and automatic system.
+
 
 ## 💡 Solution - What is DeepForge?
 DeepForge takes an image as input and gives a judgement - Good / Bad, with a score and reason.
@@ -65,6 +64,7 @@ Trained on 14,000 images
 Can judge new images automatically in seconds
 Faster than manual judging
 More fair and consistent
+images are currently under fine-tuning, not trained with final results.
 🔮 Future Scope
 Add support for videos
 Improve accuracy with more data
